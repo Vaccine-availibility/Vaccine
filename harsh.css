@@ -1,0 +1,156 @@
+#heading{
+    text-align: center;
+    color: rgb(2, 6, 29);
+}
+p{
+    font-family: 'Viaoda Libre', cursive;
+    /*font family changes the size*/
+    font-size: 33px;
+    font-weight: bold;
+}
+#redElement{
+    background-color: palegoldenrod;
+color: red;
+border: 2px solid black;
+border-width: 5px;
+border-style: groove;
+border-top-color: chocolate;
+border-color: darkblue;
+border-radius: 30px;/*curve border*/
+  }
+#greenElement{
+color: green;
+}
+#Image{
+    background-image: url('vaccine.jpg');
+    border-radius: 30px;
+    border-color: darkmagenta;
+   /* background-repeat: no-repeat;*/
+}
+#sec{
+    color: rgb(223, 68, 171);  
+    cursor: pointer;
+     
+}
+.cont1{
+    background-color: rgb(137, 176, 228);
+    border: 3px solid rgb(16, 84, 231);
+    padding: 69px;
+    margin: auto;
+    border-radius: 100px;
+    width: 700px;
+    
+}
+.cont2{
+    background-color: rgb(137, 176, 228);
+    border: 3px solid rgb(16, 84, 231);
+    padding: 69px;
+    margin: 14px;
+    border-radius: 100px;
+    width: 700px;
+    font-size: large;
+    
+}
+.cont3{
+    background-color: rgb(137, 176, 228);
+    border: 3px solid rgb(16, 84, 231);
+    padding: 69px;
+    margin: 14px;
+    border-radius: 100px;
+    width: 700px;
+    
+}
+.main{
+    background-color: rgb(236, 198, 128);
+    font-family: 'Dancing Script', cursive;
+    width: 900px;
+    margin: auto;/*will center the box*/
+    border: 3px solid purple;
+}
+.news{
+    text-align: center;
+    border-radius: 200px;
+    background-color: lightblue;
+    border: 2px solid gold;
+    color: indianred;
+}
+.btw{
+    background-color: lightgreen;
+    border-radius: 20px;
+    padding: 6px;
+    border: none;
+    cursor: pointer;/*when curson moves on it it will change its shape*/
+}
+a{
+    text-decoration: rgb(252, 118, 8);/*removes under line from link*/
+}
+a:hover{
+    color: rgb(217, 226, 233);
+}
+.na{
+    color: blue;
+    position: center;
+    margin-left: 40%;
+    border: 2px solid brown;
+    border-radius: 20px;
+    background-color: rgb(233, 204, 167);
+}
+/*.navbar{
+    background-color: cyan;
+}
+.navbar u1{
+    overflow: auto;
+}
+.navbar li{
+    float: left;
+    list-style: none;
+    margin: 13px 20px;
+}
+.navbar li a{
+    padding: 3px 3px;
+    text-decoration: none;
+
+}*/
+.navbar{
+    border: 2px solid gray;
+    background-color: cyan;
+}
+.navbar u1{
+    background-color: cyan;
+}
+.navbar li{
+    float: left;
+    list-style: none;
+    margin: 13px 20px;
+}
+.navbar li a{
+    padding: 3px 3px;
+    text-decoration: none;
+
+}
+.Search{
+    float: right;
+    color: white;
+    padding: 12px 75px;
+}
+.navbar input{
+    border: 2px solid black;
+    border-radius: 20px;
+    padding: 3px 17px;
+}
+.navbar li a:hover{
+    color:red;
+}
+.form{
+    color: rgb(252, 118, 8);
+    border: 2px solid gold;
+    border-radius: 300px;
+    text-align: center;
+    background-color: rgb(75, 15, 238);
+}
+.f1{
+    border-radius: 20px;
+}
+body{
+    background-image: url('https://lh3.googleusercontent.com/proxy/viO2n0g_rDj625yi3YKDun421GyzvvsKIMcl7aqsd8cYFsyhTYKQEMNIps337QZ6fhCZaA5txi7cPUT-v3wQW7mUhh8c3nQRc_LfHaGSk0g8xpZqMHxjiiwmt4OM251JBPnnq53f1LXSfpwLZ6_dgNXrt6SkpQ');
+}
